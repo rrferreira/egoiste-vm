@@ -1,0 +1,13 @@
+==========================
+RONALDO RODRIGUES FERREIRA
+==========================
+
+11/02/2011
+
+Egoïste is (or at least is going to be) a Virtual Machine for the Self language.
+
+My intention is that it to be cross-platform, but the development is performed
+under Windows XP with Eclipse CDT.
+
+The idea is to try new language constructs and JIT techniques while learning
+the Self language. 
